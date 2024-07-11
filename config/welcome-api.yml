@@ -1,18 +1,4 @@
-spring:
-  application:
-    name: config-server
-   
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/ashokitsschool/configure_properties
-          clone-on-start: true
-
-  management: 
-     security:
-        enabled: false
- 
+msg:hello pawan
 
     
     
